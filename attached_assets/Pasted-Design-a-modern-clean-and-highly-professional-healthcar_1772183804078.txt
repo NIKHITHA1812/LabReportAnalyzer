@@ -1,0 +1,110 @@
+Design a modern, clean, and highly professional healthcare web application called **"Lab Report Intelligence Agent"**.
+
+GOAL:
+The platform allows users to upload any medical lab report (PDF or image) and instantly receive an AI-powered health summary, abnormality detection, and Indian lifestyle remedies.
+
+TARGET USERS:
+Indian patients aged 18–60, including non-technical users. The UI must feel trustworthy, medical-grade, and extremely easy to use.
+
+STYLE REQUIREMENTS:
+
+* Minimal and clean medical design
+* Soft shadows and rounded cards
+* Professional healthcare look (not playful)
+* Highly accessible and mobile responsive
+* Clear visual hierarchy
+* Fast-loading feel
+* No bright or neon colors
+
+COLOR PALETTE:
+
+* Primary: Deep medical blue
+* Secondary: Soft green for normal results
+* Alert: Soft red for abnormal values
+* Background: Very light gray or white
+* Text: Dark gray/black for readability
+
+TYPOGRAPHY:
+
+* Modern sans-serif font
+* Large readable headings
+* Clear contrast for elderly users
+
+MAIN LANDING PAGE SECTIONS:
+
+1. HERO SECTION
+
+* Headline: "Upload Your Lab Report. Understand Your Health in Seconds."
+* Subtext explaining AI-powered analysis
+* Large drag-and-drop upload box (PDF/JPG/PNG)
+* Trust badges: Secure, Private, AI-powered
+* Primary CTA button: "Upload Report"
+
+2. HOW IT WORKS (3-step visual flow)
+
+* Step 1: Upload Report
+* Step 2: AI Analysis
+* Step 3: Get Health Insights + Remedies
+  Use simple medical-style icons.
+
+3. FEATURES SECTION
+   Cards showing:
+
+* Works with any lab (Apollo, Thyrocare, etc.)
+* Instant abnormality detection
+* Plain-language explanations
+* Indian diet & yoga suggestions
+* Doctor consultation reminder
+
+4. SAMPLE REPORT DASHBOARD (IMPORTANT WOW SECTION)
+   Design a beautiful patient results dashboard showing:
+
+* Overall summary card (e.g., "6/8 tests normal")
+* Abnormal test alert card (red highlight)
+* Normal test list (green indicators)
+* Diet recommendation card (e.g., Karela juice)
+* Exercise recommendation card (e.g., Bhujangasana)
+* Doctor advice warning banner
+
+This section must look extremely impressive for hackathon judges.
+
+5. TRUST & SAFETY SECTION
+
+* Data privacy note
+* Not a replacement for doctors disclaimer
+* Secure processing badges
+
+6. FOOTER
+
+* About
+* Contact
+* Privacy Policy
+* Simple professional footer
+
+UX REQUIREMENTS:
+
+* Large upload area above the fold
+* One-click upload experience
+* Progress indicator during analysis
+* Mobile-first responsive layout
+* Accessible contrast ratios
+* Elderly-friendly readability
+
+EXTRA WOW FACTORS (IMPORTANT):
+
+* Upload drag-and-drop animation
+* Processing loader ("Analyzing your report...")
+* Smooth card hover effects
+* Success check animations
+* Clean medical illustrations
+
+OUTPUT REQUIRED:
+Provide full responsive web layout including:
+
+* Desktop view
+* Tablet view
+* Mobile view
+* Component breakdown
+* Spacing and layout grid
+
+The final design should look like a production-ready digital health startup suitable for a national-level hackathon demo.
